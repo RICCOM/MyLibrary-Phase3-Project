@@ -22,4 +22,6 @@ Munjuri Eric
 1. Clone the repository:
    ```bash
    git clone git@github.com:RICCOM/MyLibrary-Phase3-Project.git
-   cd mylibrary
+   cd MyLibrary-Phase3-Project
+
+2.Run  ... pipenv run python main.py
